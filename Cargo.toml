@@ -1,0 +1,9 @@
+[package]
+name = "rotmgserverchange"
+version = "0.1.0"
+authors = ["ze <zelkatani@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+winreg = "0.8"
+iced = "0.2"
